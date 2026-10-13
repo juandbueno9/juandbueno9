@@ -1,6 +1,6 @@
-<!-- ====================== ENCABEZADO ====================== -->
+<!-- ====================== CONSOLA ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3b57,100:00b4d8&height=200&section=header&text=Juan%20Bueno&fontSize=52&fontColor=e6edf3&fontAlignY=36&desc=Infraestructura%20TI%20%C2%B7%20Cloud%20%C2%B7%20Observabilidad%20%C2%B7%20Automatizaci%C3%B3n&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="./assets/dashboard.svg" alt="Juan Bueno · Consola de infraestructura" width="100%" />
 </p>
 
 <p align="center">
