@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2NmRiMDQ3MS0xZmJmLTQ0MmUtOWQzZC1lZTMzMTdkMDJmNDAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaO1YBZtOsw3nq0UE4kJkEuMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ZGI5N2RhNS1jZDYyLTRmZmMtODcwYS0xMzBiMGFhYTA2MmZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoU7SuAnraSmtk8kSVshBaxwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggbTmqRNVYBD9QBJreWX1N7RZFGa+cVYZ2FsP9OqfO8cykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFHNXqIHLLw3vXWamby1mG0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA6BGTlA6A760BL9HPgGOKjzpb3dXY/REfbFA59xdLBHmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjhZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjY2ZGIwNDcxLTFmYmYtNDQyZS05ZDNkLWVlMzMxN2QwMmY0MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY2ZTIzMDgzLTk4NWMtNDVkZi1hNWI4LWM3NzIwYzc0ZDMxNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBtOapE1VgEP1AEmt5ZfU3tFkUZr5xVhnYWw/06p87xzKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggLsbJaahNsgZcSaEZMvjzE8T+vEAtdeetUP9sNZ4uqhmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggiCWk7oR9Q5/irVxmhx7cr2WvjinWH/V8fEu6lz+kyVB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAYbH6b/xwb1De40WpJvOhJQwQf1DA4WfiElld4cxzlDtnZdM7NRC9yzwCpsPt1RuiOePxLI7PjxW5Q1HhOqv0c=</c2pa:manifest></metadata>
+  <defs>
+    <style>
+      .t{fill:#e6edf3}.m{fill:#8b98a9}.c{fill:#22d3ee}.g{fill:#34d399}.y{fill:#fbbf24}
+      .card{fill:#0f1726;stroke:#1e2b40;stroke-width:1}
+      .blink{animation:blink 1.4s ease-in-out infinite}
+      .blink2{animation:blink 1.1s ease-in-out infinite .4s}
+      .blink3{animation:blink 1.7s ease-in-out infinite .8s}
+      .spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+      .spinr{transform-box:fill-box;transform-origin:center;animation:spin 22s linear infinite reverse}
+      .gauge{stroke-dasharray:0 300}
+      .g1{animation:f1 2.2s ease-out forwards}.g2{animation:f2 2.2s ease-out forwards}.g3{animation:f3 2.2s ease-out forwards}.g4{animation:f4 2.2s ease-out forwards}
+      .spark{stroke-dasharray:520;stroke-dashoffset:520;animation:draw 3s ease-out forwards}
+      .log{opacity:0;animation:show .4s ease-out forwards}
+      .l1{animation-delay:.6s}.l2{animation-delay:1.4s}.l3{animation-delay:2.2s}.l4{animation-delay:3s}
+      .l5{animation-delay:3.8s}.l6{animation-delay:4.6s}.l7{animation-delay:5.4s}
+      .scan{animation:scan 4s linear infinite}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}
+      @keyframes blink{0%,100%{opacity:1}50%{opacity:.15}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      @keyframes f1{to{stroke-dasharray:224 300}}@keyframes f2{to{stroke-dasharray:150 300}}@keyframes f3{to{stroke-dasharray:200 300}}@keyframes f4{to{stroke-dasharray:226 300}}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      @keyframes show{to{opacity:1}}
+      @keyframes scan{0%{transform:translateY(0)}100%{transform:translateY(190px)}}
+      @keyframes pulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.6);opacity:0}}
+    </style>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#111b2e" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2a4a"/><stop offset="1" stop-color="#0b1424"/>
+    </linearGradient>
+    <linearGradient id="cy" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <clipPath id="logclip"><rect x="830" y="420" width="345" height="195"/></clipPath>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="1200" height="640" rx="14" fill="#0a0f1a"/>
+  <rect width="1200" height="640" rx="14" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="1199" height="639" rx="14" fill="none" stroke="#1e2b40"/>
+
+  <!-- barra superior -->
+  <rect x="0" y="0" width="1200" height="52" rx="14" fill="#0c1322"/>
+  <rect x="0" y="40" width="1200" height="12" fill="#0c1322"/>
+  <line x1="0" y1="52" x2="1200" y2="52" stroke="#1e2b40"/>
+  <circle cx="34" cy="26" r="15" fill="none" stroke="url(#cy)" stroke-width="3"/>
+  <text x="34" y="31" text-anchor="middle" font-size="12" font-weight="700" class="c">JB</text>
+  <text x="58" y="24" font-size="14" font-weight="800" class="c" letter-spacing="2">JUAN BUENO</text>
+  <text x="58" y="40" font-size="9" class="m" letter-spacing="3">INFRA · OBSERVABILIDAD</text>
+  <text x="250" y="31" font-size="12" class="m">juandbueno9  ›  <tspan class="t">Vista ejecutiva</tspan></text>
+  <rect x="760" y="15" width="150" height="22" rx="4" fill="#06281f" stroke="#155e48"/>
+  <text x="835" y="30" text-anchor="middle" font-size="10" class="g" letter-spacing="1.5">PRODUCCIÓN · AWS</text>
+  <circle cx="928" cy="26" r="4" fill="#34d399" class="blink"/>
+  <text x="938" y="30" font-size="11" class="m">En vivo</text>
+  <text x="1010" y="30" font-size="11" class="m">uptime <tspan class="g">99.9%</tspan></text>
+  <circle cx="1166" cy="26" r="13" fill="#1b2638" stroke="#2b3a52"/>
+  <text x="1166" y="30" text-anchor="middle" font-size="11" class="t">J</text>
+
+  <!-- barra lateral -->
+  <rect x="0" y="52" width="220" height="588" fill="#0c1322"/>
+  <line x1="220" y1="52" x2="220" y2="640" stroke="#1e2b40"/>
+  <g font-size="12">
+    <text x="22" y="86" font-size="9" class="m" letter-spacing="2">MONITOREO</text>
+    <rect x="10" y="96" width="200" height="28" rx="6" fill="#0e2638" stroke="#22d3ee"/>
+    <text x="34" y="115" class="t">▣  Vista ejecutiva</text>
+    <text x="34" y="146" class="m">◔  Alertas</text>
+    <circle cx="196" cy="142" r="8" fill="#14532d"/><text x="196" y="146" text-anchor="middle" font-size="9" class="g">0</text>
+    <text x="34" y="174" class="m">⛨  Seguridad</text>
+    <text x="34" y="202" class="m">◍  Sitios y SSL</text>
+    <text x="22" y="240" font-size="9" class="m" letter-spacing="2">INFRAESTRUCTURA</text>
+    <text x="34" y="268" class="m">▤  Hosts Linux</text>
+    <text x="34" y="296" class="m">☁  AWS · EC2 · S3</text>
+    <text x="34" y="324" class="m">⬢  Docker</text>
+    <text x="22" y="362" font-size="9" class="m" letter-spacing="2">OBSERVABILIDAD</text>
+    <text x="34" y="390" class="m">≡  Logs · Loki</text>
+    <text x="34" y="418" class="m">∿  Métricas</text>
+    <text x="22" y="456" font-size="9" class="m" letter-spacing="2">AUTOMATIZACIÓN</text>
+    <text x="34" y="484" class="m">⟳  Cron jobs</text>
+    <text x="34" y="512" class="m">⌘  Bash · Python</text>
+  </g>
+  <line x1="0" y1="570" x2="220" y2="570" stroke="#1e2b40"/>
+  <circle cx="24" cy="592" r="4" fill="#34d399" class="blink2"/><text x="36" y="596" font-size="11" class="m">Prometheus</text><text x="200" y="596" text-anchor="end" font-size="10" class="g">conectado</text>
+  <circle cx="24" cy="616" r="4" fill="#34d399" class="blink3"/><text x="36" y="620" font-size="11" class="m">Grafana</text><text x="200" y="620" text-anchor="end" font-size="10" class="g">en línea</text>
+
+  <!-- hero -->
+  <rect x="240" y="70" width="940" height="170" rx="12" fill="url(#hero)" stroke="#1e3a5c"/>
+  <circle cx="268" cy="104" r="4" fill="#22d3ee" class="blink"/>
+  <text x="280" y="108" font-size="10" class="c" letter-spacing="3">JUAN BUENO · INFRAESTRUCTURA EN VIVO</text>
+  <text x="262" y="152" font-size="36" font-weight="800" class="t" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Infraestructura TI</text>
+  <text x="262" y="180" font-size="13" class="m">Linux · AWS · Docker · Prometheus · Grafana · Loki · Automatización</text>
+  <rect x="262" y="198" width="150" height="24" rx="5" fill="#2a1f05" stroke="#7c5a10"/>
+  <text x="337" y="214" text-anchor="middle" font-size="10" class="y">Disponible para trabajar</text>
+  <rect x="420" y="198" width="160" height="24" rx="5" fill="#0b2338" stroke="#1d4e7a"/>
+  <text x="500" y="214" text-anchor="middle" font-size="10" class="c">Colombia · Remoto / Híbrido</text>
+  <rect x="588" y="198" width="132" height="24" rx="5" fill="#0b2338" stroke="#1d4e7a"/>
+  <text x="654" y="214" text-anchor="middle" font-size="10" class="c">Sector financiero</text>
+  <!-- orbita -->
+  <circle cx="1040" cy="155" r="80" fill="url(#glow)"/>
+  <g class="spin"><circle cx="1040" cy="155" r="62" fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-dasharray="4 8"/><circle cx="1102" cy="155" r="5" fill="#22d3ee"/></g>
+  <g class="spinr"><ellipse cx="1040" cy="155" rx="78" ry="30" fill="none" stroke="#34d399" stroke-opacity=".4"/><circle cx="962" cy="155" r="4" fill="#34d399"/></g>
+  <circle cx="1040" cy="155" r="34" fill="#0b1424" stroke="url(#cy)" stroke-width="3"/>
+  <text x="1040" y="163" text-anchor="middle" font-size="22" font-weight="800" class="c">JB</text>
+
+  <!-- KPIs -->
+  <g>
+    <rect class="card" x="240" y="258" width="223" height="140" rx="10"/>
+    <text x="256" y="282" font-size="10" class="m" letter-spacing="2">DISPONIBILIDAD</text>
+    <text x="256" y="324" font-size="30" font-weight="700" class="t">99.9<tspan font-size="14" class="m">%</tspan></text>
+    <text x="256" y="344" font-size="10" class="m">objetivo SLA</text>
+    <circle cx="420" cy="314" r="36" fill="none" stroke="#1b2638" stroke-width="7"/>
+    <circle cx="420" cy="314" r="36" fill="none" stroke="#fbbf24" stroke-width="7" stroke-linecap="round" transform="rotate(-90 420 314)" class="gauge g1"/>
+    <text x="420" y="318" text-anchor="middle" font-size="11" class="t">99.9%</text>
+    <polyline class="spark" points="256,384 280,380 300,383 320,376 345,381 370,378 395,382 420,379 448,380" fill="none" stroke="#fbbf24" stroke-width="2"/>
+  </g>
+  <g>
+    <rect class="card" x="478" y="258" width="223" height="140" rx="10"/>
+    <text x="494" y="282" font-size="10" class="m" letter-spacing="2">SERVIDORES</text>
+    <text x="494" y="324" font-size="30" font-weight="700" class="t">Linux</text>
+    <text x="494" y="344" font-size="10" class="m">Ubuntu · AWS EC2</text>
+    <circle cx="658" cy="314" r="36" fill="none" stroke="#1b2638" stroke-width="7"/>
+    <circle cx="658" cy="314" r="36" fill="none" stroke="#22d3ee" stroke-width="7" stroke-linecap="round" transform="rotate(-90 658 314)" class="gauge g2"/>
+    <text x="658" y="318" text-anchor="middle" font-size="11" class="t">CPU</text>
+    <polyline class="spark" points="494,384 515,372 535,380 555,366 575,378 600,370 625,382 650,368 686,376" fill="none" stroke="#22d3ee" stroke-width="2"/>
+  </g>
+  <g>
+    <rect class="card" x="716" y="258" width="223" height="140" rx="10"/>
+    <text x="732" y="282" font-size="10" class="m" letter-spacing="2">AUTOMATIZACIÓN</text>
+    <text x="732" y="324" font-size="30" font-weight="700" class="t">24/7</text>
+    <text x="732" y="344" font-size="10" class="m">cron · bash · python</text>
+    <circle cx="896" cy="314" r="36" fill="none" stroke="#1b2638" stroke-width="7"/>
+    <circle cx="896" cy="314" r="36" fill="none" stroke="#34d399" stroke-width="7" stroke-linecap="round" transform="rotate(-90 896 314)" class="gauge g3"/>
+    <text x="896" y="318" text-anchor="middle" font-size="11" class="t">jobs</text>
+    <polyline class="spark" points="732,384 750,384 752,370 756,384 790,384 792,368 796,384 830,384 832,372 836,384 872,384 874,366 878,384 924,384" fill="none" stroke="#34d399" stroke-width="2"/>
+  </g>
+  <g>
+    <rect class="card" x="954" y="258" width="226" height="140" rx="10"/>
+    <text x="970" y="282" font-size="10" class="m" letter-spacing="2">ALERTAS ACTIVAS</text>
+    <text x="970" y="324" font-size="30" font-weight="700" class="t">0</text>
+    <text x="970" y="344" font-size="10" class="g">0 críticas · todo OK</text>
+    <circle cx="1136" cy="314" r="36" fill="none" stroke="#1b2638" stroke-width="7"/>
+    <circle cx="1136" cy="314" r="36" fill="none" stroke="#34d399" stroke-width="7" stroke-linecap="round" transform="rotate(-90 1136 314)" class="gauge g4"/>
+    <circle cx="1136" cy="314" r="6" fill="#34d399" class="pulse"/>
+    <text x="1136" y="318" text-anchor="middle" font-size="11" class="t">OK</text>
+    <polyline class="spark" points="970,384 1000,384 1030,384 1060,384 1090,384 1120,384 1164,384" fill="none" stroke="#34d399" stroke-width="2" stroke-dasharray="3 4"/>
+  </g>
+
+  <!-- rack de servicios -->
+  <rect class="card" x="240" y="414" width="575" height="210" rx="10"/>
+  <circle cx="256" cy="434" r="4" fill="#22d3ee"/>
+  <text x="268" y="438" font-size="12" font-weight="700" class="t">Rack de proyectos</text>
+  <text x="800" y="438" text-anchor="end" font-size="9" class="m">4 servicios · todos en línea</text>
+  <g font-size="10">
+    <!-- servidor 1 -->
+    <g transform="translate(262,456)">
+      <rect width="122" height="150" rx="6" fill="#151f31" stroke="#2b3a52"/>
+      <rect x="10" y="12" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="34" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="10" y="56" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="78" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="18" y="18" width="14" height="4" fill="#22d3ee" class="blink"/><rect x="18" y="40" width="14" height="4" fill="#22d3ee" class="blink2"/>
+      <rect x="18" y="62" width="14" height="4" fill="#22d3ee" class="blink3"/><rect x="18" y="84" width="14" height="4" fill="#22d3ee" class="blink"/>
+      <rect x="0" y="138" width="122" height="12" rx="2" fill="#155e48"/>
+      <text x="61" y="114" text-anchor="middle" class="t">observability</text><text x="61" y="128" text-anchor="middle" class="m">-stack</text>
+    </g>
+    <g transform="translate(398,456)">
+      <rect width="122" height="150" rx="6" fill="#151f31" stroke="#2b3a52"/>
+      <rect x="10" y="12" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="34" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="10" y="56" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="78" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="18" y="18" width="14" height="4" fill="#fbbf24" class="blink2"/><rect x="18" y="40" width="14" height="4" fill="#fbbf24" class="blink3"/>
+      <rect x="18" y="62" width="14" height="4" fill="#fbbf24" class="blink"/><rect x="18" y="84" width="14" height="4" fill="#fbbf24" class="blink2"/>
+      <rect x="0" y="138" width="122" height="12" rx="2" fill="#155e48"/>
+      <text x="61" y="114" text-anchor="middle" class="t">alertas-tasas</text><text x="61" y="128" text-anchor="middle" class="m">-banrep</text>
+    </g>
+    <g transform="translate(534,456)">
+      <rect width="122" height="150" rx="6" fill="#151f31" stroke="#2b3a52"/>
+      <rect x="10" y="12" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="34" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="10" y="56" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="78" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="18" y="18" width="14" height="4" fill="#34d399" class="blink3"/><rect x="18" y="40" width="14" height="4" fill="#34d399" class="blink"/>
+      <rect x="18" y="62" width="14" height="4" fill="#34d399" class="blink2"/><rect x="18" y="84" width="14" height="4" fill="#34d399" class="blink3"/>
+      <rect x="0" y="138" width="122" height="12" rx="2" fill="#155e48"/>
+      <text x="61" y="114" text-anchor="middle" class="t">monitor-</text><text x="61" y="128" text-anchor="middle" class="m">normatividad</text>
+    </g>
+    <g transform="translate(670,456)">
+      <rect width="122" height="150" rx="6" fill="#151f31" stroke="#2b3a52"/>
+      <rect x="10" y="12" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="34" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="10" y="56" width="102" height="16" rx="2" fill="#0c1322"/><rect x="10" y="78" width="102" height="16" rx="2" fill="#0c1322"/>
+      <rect x="18" y="18" width="14" height="4" fill="#22d3ee" class="blink"/><rect x="18" y="40" width="14" height="4" fill="#22d3ee" class="blink3"/>
+      <rect x="18" y="62" width="14" height="4" fill="#22d3ee" class="blink2"/><rect x="18" y="84" width="14" height="4" fill="#22d3ee" class="blink"/>
+      <rect x="0" y="138" width="122" height="12" rx="2" fill="#155e48"/>
+      <text x="61" y="114" text-anchor="middle" class="t">correo-</text><text x="61" y="128" text-anchor="middle" class="m">bienvenida</text>
+    </g>
+  </g>
+
+  <!-- logs en vivo -->
+  <rect class="card" x="830" y="414" width="350" height="210" rx="10"/>
+  <circle cx="846" cy="434" r="4" fill="#34d399" class="blink"/>
+  <text x="858" y="438" font-size="12" font-weight="700" class="t">Logs en vivo</text>
+  <text x="1166" y="438" text-anchor="end" font-size="9" class="m">loki · tail -f</text>
+  <g clip-path="url(#logclip)">
+    <rect class="scan" x="830" y="420" width="350" height="2" fill="#22d3ee" opacity=".25"/>
+  </g>
+  <g font-size="10.5">
+    <text x="846" y="466" class="log l1"><tspan class="g">[OK]  </tspan><tspan class="m">prometheus scrape node:9100</tspan></text>
+    <text x="846" y="487" class="log l2"><tspan class="g">[OK]  </tspan><tspan class="m">blackbox ssl expira en 87d</tspan></text>
+    <text x="846" y="508" class="log l3"><tspan class="c">[CRON]</tspan><tspan class="m"> alertas-tasas 12:00 enviado</tspan></text>
+    <text x="846" y="529" class="log l4"><tspan class="g">[OK]  </tspan><tspan class="m">backup pg_dump.gz completado</tspan></text>
+    <text x="846" y="550" class="log l5"><tspan class="y">[SSH] </tspan><tspan class="m">llave conocida · juan@macbook</tspan></text>
+    <text x="846" y="571" class="log l6"><tspan class="g">[OK]  </tspan><tspan class="m">alertmanager: 0 firing</tspan></text>
+    <text x="846" y="596" class="log l7"><tspan class="c">juan@infra</tspan><tspan class="m">:~$ </tspan><tspan class="t blink">▌</tspan></text>
+  </g>
+</svg>
