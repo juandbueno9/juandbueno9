@@ -105,6 +105,7 @@ filosofía:   "Si se hace dos veces, se automatiza. Si falla, me entero antes qu
 
 | Proyecto | Qué demuestra | Stack |
 |---|---|---|
+| 🛰️ **[infra-ops-console](https://github.com/juandbueno9/infra-ops-console)** · [▶ demo](https://juandbueno9.github.io/infra-ops-console/) | Centro de observabilidad para infraestructura híbrida: AWS, Azure, FortiGate, NAS, SD-WAN, seguridad SSH y costos | `React` `Node.js` `Prometheus` `Loki` `three.js` |
 | 📊 **[observability-stack](https://github.com/juandbueno9/observability-stack)** | Stack completo de monitoreo listo para desplegar: métricas, logs, alertas y disponibilidad/SSL | `Prometheus` `Grafana` `Loki` `Alertmanager` `Docker` |
 | 💱 **[alertas-tasas-banrep](https://github.com/juandbueno9/alertas-tasas-banrep)** | Automatización en servidor Linux: consulta Banrep, compara con la base de datos y alerta por correo | `Python` `Playwright` `Db2` `cron` |
 | 📜 **[monitor-normatividad-municipal](https://github.com/juandbueno9/monitor-normatividad-municipal)** | Monitor programado con API JSON, deduplicación atómica y panel web local | `Python` `MS Graph` `launchd` |
